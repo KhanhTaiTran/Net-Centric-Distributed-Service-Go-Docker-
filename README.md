@@ -1,2 +1,3 @@
-# Net-Centric-Distributed-Service-Go-Docker-
-Một hệ thống gồm:  HTTP REST API, TCP Server, UDP Service, Concurrency (goroutine, channel), Docker
+# Net-Centric-Distributed-Service-Go-Docker
+
+This repository contains a simple implementation of a net-centric distributed service using Go and Docker. The service demonstrates basic concepts of distributed computing, including service discovery, load balancing, and inter-service communication.
